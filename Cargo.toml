@@ -1,6 +1,6 @@
 [package]
 name = "chessengine-wasm"
-version = "1.0.1"
+version = "1.0.2"
 authors = ["easychessanimations <chessbotroulette@gmail.com>"]
 description = "Chess engine Rust WASM."
 keywords = ["chess", "engine", "rust", "wasm"]

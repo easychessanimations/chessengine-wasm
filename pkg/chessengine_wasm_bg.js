@@ -83,7 +83,7 @@ export function greet(name) {
     wasm.greet(ptr0, len0);
 }
 
-export const __wbg_alert_d0dff05b3ac02abd = function(arg0, arg1) {
+export const __wbg_alert_916e925df1b3eb86 = function(arg0, arg1) {
     alert(getStringFromWasm0(arg0, arg1));
 };
 

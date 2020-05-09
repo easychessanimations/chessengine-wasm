@@ -4,7 +4,7 @@
     "easychessanimations <chessbotroulette@gmail.com>"
   ],
   "description": "Chess engine Rust WASM.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -12,6 +12,7 @@
   },
   "files": [
     "chessengine_wasm_bg.wasm",
+    "chessengine_wasm_bg.js",
     "chessengine_wasm.js",
     "chessengine_wasm.d.ts"
   ],
