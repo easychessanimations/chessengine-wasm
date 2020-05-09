@@ -12,7 +12,6 @@
   },
   "files": [
     "chessengine_wasm_bg.wasm",
-    "chessengine_wasm_bg.js",
     "chessengine_wasm.js",
     "chessengine_wasm.d.ts"
   ],

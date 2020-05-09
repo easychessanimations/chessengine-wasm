@@ -1,6 +1,6 @@
 
-cd site
+cd site\dist
 
-start npm run serve
+start http-server
 
-cd ..
+cd ..\..
