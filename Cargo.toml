@@ -1,9 +1,14 @@
 [package]
 name = "chessengine-wasm"
-version = "0.1.0"
-authors = ["easychessanimations <easychessanimations@gmail.com>"]
-edition = "2018"
+version = "1.0.0"
+authors = ["easychessanimations <chessbotroulette@gmail.com>"]
+description = "Chess engine Rust WASM."
+license = "MIT"
+repository = "https://github.com/easychessanimations/chessengine-wasm"
+edition = "2020"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+crate-type = ["cdylib"]
 
 [dependencies]
+wasm-bindgen = "0.2"
